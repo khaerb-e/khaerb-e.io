@@ -16,3 +16,19 @@ body {
 #pageContent {
 	display: flex;
 }
+
+header {
+	width:95%;
+	height:10%;
+
+	top:1%;
+	text-align:center;
+}
+
+footer {
+	width:95%;
+	height:10%;
+
+	bottom:99%;
+	text-align:center;
+}
